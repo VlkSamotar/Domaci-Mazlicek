@@ -26,3 +26,12 @@ Hra využívá knihovnu `play`. Pro její spuštění postupujte podle těchto k
     ```
 
 Příjemnou zábavu s vaším virtuálním mazlíčkem!
+
+## Tipy na vylepšení hry
+
+Pokud byste chtěli hru dále rozvíjet, zde jsou 4 nápady na vylepšení:
+
+1. **Časové ubývání spokojenosti (Tamagotchi styl):** Přidat funkci, která bude spokojenost automaticky snižovat v průběhu času, čímž vznikne skutečná výzva starat se o mazlíčka pravidelně.
+2. **Více různých statistik (Hlad, Energie, Zábava):** Místo jedné celkové proměnné sledovat více potřeb. Různá tlačítka pak budou tyto potřeby ovlivňovat rozdílně (např. spánek doplní energii, ale mazlíčkovi během něj vyhládne).
+3. **Animace a zvukové efekty:** Oživit hru o zvuky (např. radostné mňouknutí/štěknutí při krmení) a jednoduché animace pohybu nebo změny velikosti, když s mazlíčkem interagujete.
+4. **Bodování a herní prohra (Game Over):** Hra by se mohla ukončit ve chvíli, kdy spokojenost klesne na 0. Zároveň byste mohli sbírat body nebo mince za každou sekundu, kdy je mazlíček šťastný, a za ně nakupovat nová vylepšení.
